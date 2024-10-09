@@ -1,2 +1,2 @@
-# careerframe
+# CareerFrame
 CareerFrame is a powerful career assistance tool tailored for job coaches to help their clients create professional and compelling resumes. With an intuitive interface and a variety of customizable templates, CareerFrame enables coaches to guide job seekers in showcasing their skills, experiences, and achievements effectively. The tool offers insightful tips and resources, making it easier for job coaches to support their clients in standing out in the job market and achieving their career goals.
